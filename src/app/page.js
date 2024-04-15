@@ -12,6 +12,7 @@ export default function Home() {
         <Link className="main-link" href="/ImageGenerator">
           {" "}
           Open Image Generator{" "}
+  
         </Link>
       </div>
     </>
